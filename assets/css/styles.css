@@ -1,0 +1,23 @@
+.no-overflow{
+	overflow:hidden;
+}
+
+.start-node-title{
+	margin-top:0px;
+}
+
+.add_item_form{
+	display:none;
+}
+
+.padded-block {
+  padding: 4em 15px;
+}
+
+.padded-row{
+	padding:0px 25px;
+}
+
+.footer{
+	padding: 10px 0 15px 0;
+}
